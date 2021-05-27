@@ -1,0 +1,209 @@
+{
+  "data": {
+    "capAndDividend": {
+      "dataList": [],
+      "tabcapitaldividendresponse": {
+        "datagroup": {
+          "assetlistList": [
+            {
+              "year": "2020",
+              "asset": "35769528008240.0"
+            },
+            {
+              "year": "2019",
+              "asset": "27044115024913.0"
+            },
+            {
+              "year": "2018",
+              "asset": "23825626725361.0"
+            },
+            {
+              "year": "2017",
+              "asset": "18764375171848.0"
+            },
+            {
+              "year": "2016",
+              "asset": "13227969251704.0"
+            },
+            {
+              "year": "2015",
+              "asset": "12153431597528.0"
+            },
+            {
+              "year": "2014",
+              "asset": "8914435465737.0"
+            },
+            {
+              "year": "2013",
+              "asset": "7705073514740.0"
+            },
+            {
+              "year": "2012",
+              "asset": "7980875901875.0"
+            },
+            {
+              "year": "2011",
+              "asset": "6507513198854.0"
+            },
+            {
+              "year": "2010",
+              "asset": "8792894565982.0"
+            },
+            {
+              "year": "2009",
+              "asset": "7076985421509.0"
+            },
+            {
+              "year": "2008",
+              "asset": "5620878354598.0"
+            },
+            {
+              "year": "2007",
+              "asset": "9361634321104.0"
+            },
+            {
+              "year": "2006",
+              "asset": "3729555223368.0"
+            },
+            {
+              "year": "2005",
+              "asset": "372743662747.0"
+            },
+            {
+              "year": "2004",
+              "asset": "101092414150.0"
+            }
+          ],
+          "cashdividendlistList": [
+            {
+              "year": "2019",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2018",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2017",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2016",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2015",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2013",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2012",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2011",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2010",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2009",
+              "valuepershare": "500.0"
+            },
+            {
+              "year": "2009",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2008",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2007",
+              "valuepershare": "1000.0"
+            },
+            {
+              "year": "2007",
+              "valuepershare": "2000.0"
+            }
+          ],
+          "ownercapitallistList": [
+            {
+              "year": "2020",
+              "ownercapital": "9872797052319.0"
+            },
+            {
+              "year": "2019",
+              "ownercapital": "9401059780205.0"
+            },
+            {
+              "year": "2018",
+              "ownercapital": "9155664527633.0"
+            },
+            {
+              "year": "2017",
+              "ownercapital": "8616249695902.0"
+            },
+            {
+              "year": "2016",
+              "ownercapital": "7152567156682.0"
+            },
+            {
+              "year": "2015",
+              "ownercapital": "6727609014290.0"
+            },
+            {
+              "year": "2014",
+              "ownercapital": "5690950098941.0"
+            },
+            {
+              "year": "2013",
+              "ownercapital": "5242182121978.0"
+            },
+            {
+              "year": "2012",
+              "ownercapital": "5191573047865.0"
+            },
+            {
+              "year": "2011",
+              "ownercapital": "5080665298617.0"
+            },
+            {
+              "year": "2010",
+              "ownercapital": "5459312028182.0"
+            },
+            {
+              "year": "2009",
+              "ownercapital": "4818501330788.0"
+            },
+            {
+              "year": "2008",
+              "ownercapital": "3896903303327.0"
+            },
+            {
+              "year": "2007",
+              "ownercapital": "4056531952669.0"
+            },
+            {
+              "year": "2006",
+              "ownercapital": "1207284615107.0"
+            },
+            {
+              "year": "2005",
+              "ownercapital": "74785012950.0"
+            },
+            {
+              "year": "2004",
+              "ownercapital": "27096987454.0"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

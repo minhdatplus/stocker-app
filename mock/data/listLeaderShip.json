@@ -1,0 +1,128 @@
+{
+  "data": {
+    "leaderships": {
+      "datas": [
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Duy Hưng",
+          "positionname": "Chủ tịch Hội đồng Quản trị",
+          "positionlevel": "2.10",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Hồng Nam",
+          "positionname": "Tổng Giám đốc",
+          "positionlevel": "2.10",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Văn Khải",
+          "positionname": "Trưởng Ban kiểm soát",
+          "positionlevel": "2.10",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Hoàng Thị Minh Thủy",
+          "positionname": "Kế toán trưởng",
+          "positionlevel": "2.10",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Hồng Nam",
+          "positionname": "Phó Tổng Giám đốc",
+          "positionlevel": "2.20",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Lê Cẩm Bình",
+          "positionname": "Thành viên Ban kiểm soát",
+          "positionlevel": "2.20",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Đặng Phong Lưu",
+          "positionname": "Thành viên Ban kiểm soát",
+          "positionlevel": "2.20",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Hironori Oka",
+          "positionname": "Thành viên Hội đồng Quản trị",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Hồng Nam",
+          "positionname": "Thành viên Hội đồng Quản trị",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Ngô Văn Điểm",
+          "positionname": "Thành viên Hội đồng Quản trị",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Duy Khánh",
+          "positionname": "Thành viên Hội đồng Quản trị",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Phạm Viết Muôn",
+          "positionname": "Thành viên Hội đồng Quản trị",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Hồng Nam",
+          "positionname": "Phụ trách Công bố thông tin",
+          "positionlevel": "2.40",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Ngô Văn Điểm",
+          "positionname": "Trưởng Ban Kiểm toán nội bộ ",
+          "positionlevel": "3",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Phạm Viết Muôn",
+          "positionname": "Thành viên Ban Kiểm toán nội bộ",
+          "positionlevel": "3",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Văn Khải",
+          "positionname": "Phó Tổng Giám Đốc Khối Quản lý quỹ",
+          "positionlevel": "3.22",
+          "__typename": "Leadership"
+        },
+        {
+          "symbol": "SSI",
+          "fullname": "Nguyễn Thị Thanh Hà",
+          "positionname": "Giám đốc Tài chính",
+          "positionlevel": "3.40",
+          "__typename": "Leadership"
+        }
+      ],
+      "__typename": "LeadershipPayload"
+    }
+  }
+}

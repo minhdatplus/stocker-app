@@ -1,0 +1,137 @@
+{
+  "data": {
+    "subCompanies": {
+      "datas": [
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "BBC",
+          "childcompanyname": "Công ty Cổ phần Bibica",
+          "chartercapital": "154207820000.0",
+          "percentage": "0",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "ELC",
+          "childcompanyname": "Công ty Cổ phần Đầu tư Phát triển Công nghệ điện tử - Viễn thông",
+          "chartercapital": "509282430000.0",
+          "percentage": "0.0580000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "GIL",
+          "childcompanyname": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+          "chartercapital": "360000000000.0",
+          "percentage": "0.0301000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "LAF",
+          "childcompanyname": "Công ty Cổ phần Chế biến Hàng Xuất khẩu Long An",
+          "chartercapital": "147280190000.0",
+          "percentage": "0.0000002715",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "PAN",
+          "childcompanyname": "Công ty Cổ phần Tập đoàn PAN",
+          "chartercapital": "2163585800000.0",
+          "percentage": "0.1921900000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "PDN",
+          "childcompanyname": "Công ty Cổ phần Cảng Đồng Nai",
+          "chartercapital": "185219540000.0",
+          "percentage": "0.0000000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "SSC",
+          "childcompanyname": "Công ty Cổ phần Giống cây trồng Miền Nam",
+          "chartercapital": "149923670000.0",
+          "percentage": "0.1182000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "TMS",
+          "childcompanyname": "Công ty Cổ phần Transimex",
+          "chartercapital": "814429350000.0",
+          "percentage": "0.1210000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "14",
+          "childsymbol": "VFG",
+          "childcompanyname": "Công ty Cổ phần Khử trùng Việt Nam",
+          "chartercapital": "320888640000.0",
+          "percentage": "0.0000000000",
+          "rolename": "Công ty liên kết",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "11",
+          "childsymbol": "",
+          "childcompanyname": "Công ty TNHH Quản lý quỹ SSI",
+          "chartercapital": "0",
+          "percentage": "1.0000000000",
+          "rolename": "Công ty con",
+          "__typename": "SubCompany"
+        },
+        {
+          "parentsymbol": "SSI",
+          "parentcompanyname": "Công ty Cổ phần Chứng khoán SSI",
+          "roleid": "11",
+          "childsymbol": "",
+          "childcompanyname": "Quỹ Đầu tư Thành viên SSI",
+          "chartercapital": "0",
+          "percentage": "0.8000000000",
+          "rolename": "Công ty con",
+          "__typename": "SubCompany"
+        }
+      ],
+      "paging": {
+        "pagesize": 100,
+        "currentpage": 1,
+        "totalpage": 1,
+        "totalrow": 11,
+        "__typename": "PaginInfo"
+      },
+      "__typename": "SubCompanyPayload"
+    }
+  }
+}

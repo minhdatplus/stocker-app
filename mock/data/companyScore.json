@@ -1,0 +1,25 @@
+{
+  "page": 0,
+  "pageSize": 0,
+  "totalCount": 0,
+  "items": [
+    {
+      "organCode": "SSI",
+      "icbRank": 4,
+      "icbTotalRanked": 41,
+      "indexRank": 23,
+      "indexTotalRanked": 30,
+      "icbCode": "8770",
+      "comGroupCode": "VN30",
+      "growth": "C",
+      "value": "C",
+      "momentum": "C",
+      "vgm": "B",
+      "controlStatusCode": -1,
+      "controlStatusName": "Bình thường"
+    }
+  ],
+  "packageId": null,
+  "status": "Success",
+  "errors": null
+}

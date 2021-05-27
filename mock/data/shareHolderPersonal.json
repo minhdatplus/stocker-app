@@ -1,0 +1,448 @@
+{
+  "data": {
+    "shareholders": {
+      "dataList": [
+        {
+          "symbol": "DAIWA",
+          "name": "Daiwa Securities Group Inc",
+          "quantity": "118294620.0",
+          "percentage": "0.1961900000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "NDHINVTLTD",
+          "name": "Công ty TNHH Đầu tư NDH",
+          "quantity": "55905882.0",
+          "percentage": "0.0927200000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "10678",
+          "name": "En Fund L.P",
+          "quantity": "46859491.0",
+          "percentage": "0.0721000000",
+          "publicdate": "22/03/2021 14:26:33",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "BDSSGDANLINH",
+          "name": "Công ty TNHH BDS Sài Gòn Đan Linh",
+          "quantity": "36250713.0",
+          "percentage": "0.0603200000",
+          "publicdate": "30/12/2020 17:01:57",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "DBAGL",
+          "name": "Deutsche Bank Aktiengesellchaft, London Branch",
+          "quantity": "18962224.0",
+          "percentage": "0.0395000000",
+          "publicdate": "23/09/2016 09:54:14",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "NORGES",
+          "name": "Norges Bank",
+          "quantity": "13380000.0",
+          "percentage": "0.0262000000",
+          "publicdate": "11/01/2019 10:50:09",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "DMTI",
+          "name": "Công ty Cổ phần Đầu tư Đường Mặt Trời",
+          "quantity": "11034420.0",
+          "percentage": "0.0258216079",
+          "publicdate": "24/12/2014 13:40:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "MVETFT",
+          "name": "VanEck Vectors ETF Trust-VanEck Vectors-Vietnam-ETF",
+          "quantity": "11264221.0",
+          "percentage": "0.0230000000",
+          "publicdate": "11/09/2017 16:15:39",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Duy Hưng",
+          "quantity": "10209044.0",
+          "percentage": "0.0169300000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Mạnh Hùng",
+          "quantity": "5800000.0",
+          "percentage": "0.0096200000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "VEIL",
+          "name": "Veil Holdings Limited",
+          "quantity": "4514027.0",
+          "percentage": "0.0092000000",
+          "publicdate": "08/06/2017 17:21:01",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "NSGC",
+          "name": "Công ty TNHH MTV Nguyễn Sài Gòn",
+          "quantity": "2716840.0",
+          "percentage": "0.0063576678",
+          "publicdate": "29/03/2010 17:31:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "BEIRA",
+          "name": "Beira Limited",
+          "quantity": "3031673.0",
+          "percentage": "0.0063000000",
+          "publicdate": "23/09/2016 09:57:19",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "VNGL",
+          "name": "Venner Group Limited",
+          "quantity": "3000000.0",
+          "percentage": "0.0060100000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "HNINVEST",
+          "name": "Hanoi Investments Holdings Limited",
+          "quantity": "2593000.0",
+          "percentage": "0.0050900000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Thị Thanh Hà",
+          "quantity": "1928152.0",
+          "percentage": "0.0032000000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "WHGL",
+          "name": "Wareham Group Limited",
+          "quantity": "1533250.0",
+          "percentage": "0.0031000000",
+          "publicdate": "08/06/2017 17:22:01",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "ASIL",
+          "name": "Amersham Industries Limited",
+          "quantity": "1351773.0",
+          "percentage": "0.0028000000",
+          "publicdate": "23/05/2017 17:57:13",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "DCDMS",
+          "name": "DC Developing Markets Strategies Public Limited Company",
+          "quantity": "1250000.0",
+          "percentage": "0.0026000000",
+          "publicdate": "05/05/2017 11:11:56",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Hồng Nam",
+          "quantity": "1512000.0",
+          "percentage": "0.0025200000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "VIOLA",
+          "name": "Viola Ltd",
+          "quantity": "1278000.0",
+          "percentage": "0.0025100000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "GREYST",
+          "name": "Greystanes Limited Company",
+          "quantity": "1040450.0",
+          "percentage": "0.0022000000",
+          "publicdate": "26/09/2016 10:00:05",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "TVAMGF",
+          "name": "Quỹ Đầu tư Tăng trưởng TVAM",
+          "quantity": "1050000.0",
+          "percentage": "0.0017472731",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Duy Khánh",
+          "quantity": "1044000.0",
+          "percentage": "0.0017300000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "SSVNSMI",
+          "name": "Samsung Vietnam Securities Master Investment Trust (Equity)",
+          "quantity": "799000.0",
+          "percentage": "0.0015600000",
+          "publicdate": "11/01/2019 11:06:19",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "FUCTVGF2",
+          "name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 2",
+          "quantity": "870000.0",
+          "percentage": "0.0014477406",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "ETFSSIAM",
+          "name": "Quỹ ETF SSIAM VNFIN LEAD",
+          "quantity": "718372.0",
+          "percentage": "0.0011954210",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "QUENA",
+          "name": "Quena Ltd",
+          "quantity": "560000.0",
+          "percentage": "0.0011200000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "AQUILA",
+          "name": "Aquila SPC Ltd",
+          "quantity": "551000.0",
+          "percentage": "0.0010800000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "BLTL",
+          "name": "Balestrand Limited",
+          "quantity": "370000.0",
+          "percentage": "0.0007000000",
+          "publicdate": "08/06/2017 17:15:58",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "CHSEIHPTE",
+          "name": "The CH/SE Asia Investment Holdings (Singapore) Private Limited",
+          "quantity": "345000.0",
+          "percentage": "0.0007000000",
+          "publicdate": "21/12/2015 17:43:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "VNCOINVES",
+          "name": "Vietnam Co-Investment Fund",
+          "quantity": "299400.0",
+          "percentage": "0.0006000000",
+          "publicdate": "11/01/2019 11:08:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Lê Cẩm Bình",
+          "quantity": "212500.0",
+          "percentage": "0.0004100000",
+          "publicdate": "20/01/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "KBVNF",
+          "name": "KB Vietnam Focus Balanced Fund",
+          "quantity": "220000.0",
+          "percentage": "0.0004000000",
+          "publicdate": "08/06/2017 17:19:26",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "BVFUND",
+          "name": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+          "quantity": "147048.0",
+          "percentage": "0.0003441065",
+          "publicdate": "31/03/2015 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "GRINL",
+          "name": "Grinling International Limited",
+          "quantity": "138761.0",
+          "percentage": "0.0003000000",
+          "publicdate": "21/12/2015 17:44:00",
+          "ownershiptypecode": "NGOAI",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Hoàng Thị Minh Thủy",
+          "quantity": "197200.0",
+          "percentage": "0.0003000000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Phạm Viết Muôn",
+          "quantity": "92800.0",
+          "percentage": "0.0001500000",
+          "publicdate": "31/12/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Đặng Phong Lưu",
+          "quantity": "75068.0",
+          "percentage": "0.0001400000",
+          "publicdate": "20/01/2020 09:31:31",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Ngô Văn Điểm",
+          "quantity": "73800.0",
+          "percentage": "0.0001200000",
+          "publicdate": "15/03/2021 17:14:54",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "E1SSHN30",
+          "name": "Quỹ ETF SSIAM VNX50",
+          "quantity": "68906.0",
+          "percentage": "0.0001146644",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Nguyễn Văn Hiển",
+          "quantity": "36500.0",
+          "percentage": "0.0000700000",
+          "publicdate": "10/03/2020 14:21:22",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "BVFED",
+          "name": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+          "quantity": "36402.0",
+          "percentage": "0.0000605755",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Hoàng Thị Khánh Duyên",
+          "quantity": "16240.0",
+          "percentage": "0.0000300000",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "DFVNCAF",
+          "name": "Quỹ đầu tư tăng trường DFVN",
+          "quantity": "15000.0",
+          "percentage": "0.0000249610",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Trần Quang Việt",
+          "quantity": "4006.0",
+          "percentage": "0.0000080000",
+          "publicdate": "30/06/2018 09:30:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        },
+        {
+          "symbol": "ENFUND",
+          "name": "Quỹ Đầu tư Năng động Eastspring Investments",
+          "quantity": "1020.0",
+          "percentage": "0.0000016974",
+          "publicdate": "30/06/2020 00:00:00",
+          "ownershiptypecode": "KHAC",
+          "type": "C"
+        },
+        {
+          "symbol": "SSI",
+          "name": "Đặng Ngọc Phương",
+          "quantity": "13.0",
+          "percentage": "0.0000000000",
+          "publicdate": "31/12/2017 00:00:00",
+          "ownershiptypecode": "CNNHAN",
+          "type": "I"
+        }
+      ],
+      "shareholderresponse": {
+        "paging": {
+          "pagesize": "100",
+          "currentpage": "1",
+          "totalpage": "1",
+          "totalrow": "48"
+        }
+      }
+    }
+  }
+}
