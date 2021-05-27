@@ -1,6 +1,6 @@
 # Stock Data
 
-``
+```
 git clone https://github.com/minhdatplus/stocker-app
 ```
 
